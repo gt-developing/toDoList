@@ -131,3 +131,10 @@ body, html {
  ::-moz-input-placeholder{
     color: rgba(255,255,255,0.6);
  }
+
+ @media only screen and (max-width: 900px)  {
+  body {
+    justify-content: center;
+    
+  }
+ }
